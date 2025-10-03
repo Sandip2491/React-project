@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sandip2491.github.io/React-project/",
+  "homepage": "https://sandip2491.github.io/React-project/comprostate",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
