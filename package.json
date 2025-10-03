@@ -6,6 +6,9 @@
   "homepage": "https://Sandip2491.github.io/React-project",
 
   "scripts": {
+   "start": "react-scripts start",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
